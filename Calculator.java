@@ -7,6 +7,8 @@ public class Calculator {
         Scanner sc = new Scanner(System.in);
         int num1 = sc.nextInt();
         System.out.println("this is from arjun");
+        System.out.println("This is from jayshree");
+
     }
 
 }
